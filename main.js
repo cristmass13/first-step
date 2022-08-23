@@ -1,2 +1,2 @@
 
-console.log('fuck')
+console.log('ji my friend')
