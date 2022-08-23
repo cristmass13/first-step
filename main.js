@@ -1,2 +1,3 @@
 
-console.log('fhi my friend')
+console.log('fuck')
+console.log('дурной')
